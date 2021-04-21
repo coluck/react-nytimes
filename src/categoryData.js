@@ -1,0 +1,23 @@
+/* eslint import/no-anonymous-default-export: [2, {"allowArray": true}] */
+export default [
+  { id: 1, name: "Home Page", url: "HomePage" },
+  { id: 2, name: "World", url: "World" },
+  { id: 3, name: "U.S.", url: "US" },
+  { id: 4, name: "Business", url: "Business" },
+  { id: 5, name: "Technology", url: "Technology" },
+  { id: 6, name: "Sports", url: "Sports" },
+  { id: 7, name: "Science", url: "Science" },
+  { id: 8, name: "Health", url: "Health" },
+  { id: 9, name: "Arts", url: "Arts" },
+  { id: 10, name: "Style", url: "Style" },
+  { id: 11, name: "Travel", url: "Travel" },
+  { id: 12, name: "Columnists", url: "Columnists" },
+  { id: 13, name: "N.Y./Region", url: "NYRegion" },
+  { id: 14, name: "Jobs", url: "Jobs" },
+  { id: 15, name: "Real Estate", url: "RealEstate" },
+  { id: 16, name: "Autos", url: "Automobiles" },
+  { id: 17, name: "Sunday Review", url: "sunday-review" },
+  { id: 18, name: "Most Viewed", url: "MostViewed" },
+  { id: 19, name: "Most Shared", url: "MostShared" },
+  { id: 20, name: "Sunday Review", url: "sunday-review" },
+];
